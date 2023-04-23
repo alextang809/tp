@@ -21,7 +21,7 @@ Given below are my contributions to the project.
   * User Guide:
     * Proofreading to ensure UG has a logical flow, all hyperlinks works
     * Propose revise seggestions from proofreading. [Google Docs link](https://docs.google.com/document/d/17r9UW7hXrXqsuTjcml3N8ksyzeK_k7Jr9UI8u8lC31M/edit)
-    * Update UG from proofreading (Pull requests (_[\#331]_))
+    * Update UG from proofreading (Pull requests [\#331]())
   * Developer Guide:
     * Added user stories, non-functional requirements, product scope and use cases for DG (_[#36]_)
 
