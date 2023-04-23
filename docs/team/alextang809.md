@@ -9,7 +9,7 @@ TeachMeSenpai is a student managing application specially customised for teachin
 
 Given below are my contributions to the project.
 
-* **Code contributed**: [RepoSense link]([https://nus-cs2103-ay2223s2.github.io/tp-dashboard/?search=alextang809&breakdown=true])
+* **Code contributed**: [RepoSense link](https://nus-cs2103-ay2223s2.github.io/tp-dashboard/?search=alextang809&breakdown=true)
 
 * **Enhancements implemented**:
   * Update the Delete feature to allow deletion to allow multiple index deletion (Pull requests [\#127]())
@@ -20,7 +20,7 @@ Given below are my contributions to the project.
 * **Documentation**:
   * User Guide:
     * Proofreading to ensure UG has a logical flow, all hyperlinks works
-    * Propose revise seggestions from proofreading. [Google Docs link]([https://docs.google.com/document/d/17r9UW7hXrXqsuTjcml3N8ksyzeK_k7Jr9UI8u8lC31M/edit])
+    * Propose revise seggestions from proofreading. [Google Docs link](https://docs.google.com/document/d/17r9UW7hXrXqsuTjcml3N8ksyzeK_k7Jr9UI8u8lC31M/edit)
     * Update UG from proofreading (Pull requests [\#331]())
   * Developer Guide:
     * Added user stories, non-functional requirements, product scope and use cases for DG [\#36]()
