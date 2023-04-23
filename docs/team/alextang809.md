@@ -13,7 +13,7 @@ Given below are my contributions to the project.
 
 * **Enhancements implemented**:
   * Update the Delete feature to allow deletion to allow multiple index deletion (Pull requests (_[#127]_))
-  * Add Partial find feature (Pull requests (_[#52]_))
+  * Add Partial find feature Pull requests (_[#52]_)
   * Add exception for Data type conversion mis-match (Pull requests (_[#127]_))
   * Fix corrupted fonts on macOS (Pull requests (_[#50]_))
 
